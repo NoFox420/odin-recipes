@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+li {
+  margin: 20px;
+}
